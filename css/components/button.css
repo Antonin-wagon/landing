@@ -1,0 +1,16 @@
+.btn-neon {
+    background-color: #ff5f1f;
+    padding: 20px 40px;
+    color: white;
+    font-weight: 600;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    transition: 0.3s;
+    display: inline-block;
+}
+
+.btn-neon:hover {
+    background-color: #1a1a1a;
+    
+}
